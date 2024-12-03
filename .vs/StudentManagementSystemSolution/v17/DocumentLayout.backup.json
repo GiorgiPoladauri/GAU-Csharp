@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giorg\\source\\repos\\StudentManagementSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F166608C-4CC6-4261-9020-2E4DCE03321F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\giorg\\source\\repos\\studentmanagementsystemsolution\\studentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F166608C-4CC6-4261-9020-2E4DCE03321F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F166608C-4CC6-4261-9020-2E4DCE03321F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\giorg\\source\\repos\\studentmanagementsystemsolution\\studentmanagementsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F166608C-4CC6-4261-9020-2E4DCE03321F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F166608C-4CC6-4261-9020-2E4DCE03321F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\giorg\\source\\repos\\studentmanagementsystemsolution\\studentmanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F166608C-4CC6-4261-9020-2E4DCE03321F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Giorg\\source\\repos\\StudentManagementSystemSolution\\StudentManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Giorg\\source\\repos\\StudentManagementSystemSolution\\StudentManagementSystem\\Form1.cs [Design]*",
+              "RelativeToolTip": "StudentManagementSystem\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:03:13.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Giorg\\source\\repos\\StudentManagementSystemSolution\\StudentManagementSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Giorg\\source\\repos\\StudentManagementSystemSolution\\StudentManagementSystem\\Form1.Designer.cs*",
+              "RelativeToolTip": "StudentManagementSystem\\Form1.Designer.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:02:56.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Giorg\\source\\repos\\StudentManagementSystemSolution\\StudentManagementSystem\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Student.cs",
+              "ToolTip": "C:\\Users\\Giorg\\source\\repos\\StudentManagementSystemSolution\\StudentManagementSystem\\Student.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:29:14.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
