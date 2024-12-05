@@ -3,7 +3,6 @@ C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSys
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.runtimeconfig.json
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.dll
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.pdb
-C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.Form1.resources
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
@@ -14,3 +13,8 @@ C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSys
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.pdb
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.genruntimeconfig.cache
 C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\ref\StudentManagementSystem.dll
+C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.sourcelink.json
+C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentM.D74F523C.Up2Date
+C:\Users\Giorg\source\repos\StudentManagementSystemSolution\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.Form1.resources

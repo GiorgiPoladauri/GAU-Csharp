@@ -29,77 +29,53 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            button1 = new Button();
-            dataGridView1 = new DataGridView();
-            textBox1 = new TextBox();
-            comboBox1 = new ComboBox();
+            dataGridViewStudents = new DataGridView();
+            txtFirstName = new TextBox();
             toolTip1 = new ToolTip(components);
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
+            txtGPA = new TextBox();
+            txtLastName = new TextBox();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            dateTimePickerBirthDate = new DateTimePicker();
+            btnDelete = new Button();
+            button3 = new Button();
+            btnAdd = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewStudents).BeginInit();
             SuspendLayout();
             // 
-            // button1
+            // dataGridViewStudents
             // 
-            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(31, 288);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 29);
-            button1.TabIndex = 0;
-            button1.Text = "Add";
-            button1.UseVisualStyleBackColor = true;
+            dataGridViewStudents.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewStudents.Location = new Point(215, 12);
+            dataGridViewStudents.Name = "dataGridViewStudents";
+            dataGridViewStudents.RowHeadersWidth = 51;
+            dataGridViewStudents.Size = new Size(555, 375);
+            dataGridViewStudents.TabIndex = 1;
             // 
-            // dataGridView1
+            // txtFirstName
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(470, 12);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(300, 188);
-            dataGridView1.TabIndex = 1;
+            txtFirstName.Location = new Point(31, 83);
+            txtFirstName.Name = "txtFirstName";
+            txtFirstName.Size = new Size(125, 27);
+            txtFirstName.TabIndex = 2;
             // 
-            // textBox1
+            // txtGPA
             // 
-            textBox1.Location = new Point(31, 83);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(125, 27);
-            textBox1.TabIndex = 2;
+            txtGPA.Location = new Point(31, 245);
+            txtGPA.Name = "txtGPA";
+            txtGPA.Size = new Size(125, 27);
+            txtGPA.TabIndex = 4;
+            toolTip1.SetToolTip(txtGPA, "Please, be careful inputing GPA here, GPA example is : 0.7 or 3.9 ");
             // 
-            // comboBox1
+            // txtLastName
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(619, 222);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 28);
-            comboBox1.TabIndex = 3;
-            // 
-            // textBox2
-            // 
-            textBox2.Location = new Point(31, 245);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(125, 27);
-            textBox2.TabIndex = 4;
-            toolTip1.SetToolTip(textBox2, "Please, be careful inputing GPA here, GPA example is : 0.7 or 3.9 ");
-            // 
-            // textBox3
-            // 
-            textBox3.Location = new Point(31, 136);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(125, 27);
-            textBox3.TabIndex = 5;
-            // 
-            // textBox4
-            // 
-            textBox4.Location = new Point(31, 191);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(125, 27);
-            textBox4.TabIndex = 6;
+            txtLastName.Location = new Point(31, 136);
+            txtLastName.Name = "txtLastName";
+            txtLastName.Size = new Size(125, 27);
+            txtLastName.TabIndex = 5;
             // 
             // label1
             // 
@@ -110,7 +86,6 @@
             label1.Size = new Size(130, 28);
             label1.TabIndex = 7;
             label1.Text = "Add Student";
-            label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -121,7 +96,6 @@
             label2.Size = new Size(108, 15);
             label2.TabIndex = 8;
             label2.Text = "Enter Students GPA";
-            label2.Click += label2_Click;
             // 
             // label3
             // 
@@ -153,48 +127,86 @@
             label5.TabIndex = 11;
             label5.Text = "Enter First Name";
             // 
+            // dateTimePickerBirthDate
+            // 
+            dateTimePickerBirthDate.Location = new Point(31, 186);
+            dateTimePickerBirthDate.Name = "dateTimePickerBirthDate";
+            dateTimePickerBirthDate.Size = new Size(127, 27);
+            dateTimePickerBirthDate.TabIndex = 12;
+            // 
+            // btnDelete
+            // 
+            btnDelete.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnDelete.Location = new Point(31, 358);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(94, 29);
+            btnDelete.TabIndex = 13;
+            btnDelete.Text = "Delete";
+            btnDelete.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            button3.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button3.Location = new Point(31, 323);
+            button3.Name = "button3";
+            button3.Size = new Size(94, 29);
+            button3.TabIndex = 14;
+            button3.Text = "Edit";
+            button3.UseVisualStyleBackColor = true;
+            // 
+            // btnAdd
+            // 
+            btnAdd.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAdd.Location = new Point(31, 288);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(94, 29);
+            btnAdd.TabIndex = 15;
+            btnAdd.Text = "Add";
+            btnAdd.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(782, 403);
+            Controls.Add(btnAdd);
+            Controls.Add(button3);
+            Controls.Add(btnDelete);
+            Controls.Add(dateTimePickerBirthDate);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(comboBox1);
-            Controls.Add(textBox1);
-            Controls.Add(dataGridView1);
-            Controls.Add(button1);
+            Controls.Add(txtLastName);
+            Controls.Add(txtGPA);
+            Controls.Add(txtFirstName);
+            Controls.Add(dataGridViewStudents);
             Cursor = Cursors.Cross;
             FormBorderStyle = FormBorderStyle.Fixed3D;
             MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "StudentMT";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewStudents).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Button button1;
-        private DataGridView dataGridView1;
-        private TextBox textBox1;
-        private ComboBox comboBox1;
+        private DataGridView dataGridViewStudents;
+        private TextBox txtFirstName;
         private ToolTip toolTip1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
+        private TextBox txtGPA;
+        private TextBox txtLastName;
         private Label label1;
         private Label label2;
         private Label label3;
         private Label label4;
         private Label label5;
+        private DateTimePicker dateTimePickerBirthDate;
+        private Button btnDelete;
+        private Button button3;
+        private Button btnAdd;
     }
 }

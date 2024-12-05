@@ -4,12 +4,12 @@ namespace StudentManagementSystem
 {
     public class Student
     {
-        private string FirstName { get; set; }
-        private int ID { get; set; }
-        private string LastName { get; set; }
-        private DateTime BirthDate { get; set; }
-        private float gpa;
+        public int ID { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public DateTime BirthDate { get; set; }
 
+        private float gpa;
         public float GPA
         {
             get { return gpa; }
@@ -25,23 +25,21 @@ namespace StudentManagementSystem
 
         public int CalculateAge()
         {
-            int Age = DateTime.Now.Year - BirthDate.Year;
-            if (DateTime.Now < BirthDate.AddYears(Age))
+            int age = DateTime.Now.Year - BirthDate.Year;
+            if (DateTime.Now < BirthDate.AddYears(age))
             {
-                Age--;
+                age--;
             }
-
-            if (Age < 0)
+            if (age < 0)
             {
                 throw new Exception("Are you from the future?");
             }
-
-            return Age;
+            return age;
         }
 
         public string FullNameOfStudent()
         {
-            return FirstName + " " + LastName;
+            return $"{FirstName} {LastName}";
         }
     }
 }
