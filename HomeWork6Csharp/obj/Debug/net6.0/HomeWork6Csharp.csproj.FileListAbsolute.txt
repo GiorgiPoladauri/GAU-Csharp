@@ -1,0 +1,14 @@
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\HomeWork6Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\HomeWork6Csharp.AssemblyInfoInputs.cache
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\HomeWork6Csharp.AssemblyInfo.cs
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\HomeWork6Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\bin\Debug\net6.0\HomeWork6Csharp.exe
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\bin\Debug\net6.0\HomeWork6Csharp.deps.json
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\bin\Debug\net6.0\HomeWork6Csharp.runtimeconfig.json
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\bin\Debug\net6.0\HomeWork6Csharp.dll
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\bin\Debug\net6.0\HomeWork6Csharp.pdb
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\HomeWork6Csharp.dll
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\refint\HomeWork6Csharp.dll
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\HomeWork6Csharp.pdb
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\HomeWork6Csharp.genruntimeconfig.cache
+C:\Users\Giorg\source\repos\HomeWork6Csharp\HomeWork6Csharp\obj\Debug\net6.0\ref\HomeWork6Csharp.dll
