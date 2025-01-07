@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 1,
+    "FirstName": "John",
+    "LastName": "Doe",
+    "BirthDate": "2000-01-01T00:00:00",
+    "GPA": 3.5,
+    "DateAdded": "2025-01-08T12:00:00"
+  },
+  {
+    "ID": 2,
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "BirthDate": "1999-12-12T00:00:00",
+    "GPA": 4.0,
+    "DateAdded": "2025-01-08T12:30:00"
+  }
+]
