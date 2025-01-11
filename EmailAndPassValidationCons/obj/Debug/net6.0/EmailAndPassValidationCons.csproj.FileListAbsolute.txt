@@ -1,0 +1,14 @@
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\EmailAndPassValidationCons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\EmailAndPassValidationCons.AssemblyInfoInputs.cache
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\EmailAndPassValidationCons.AssemblyInfo.cs
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\EmailAndPassValidationCons.csproj.CoreCompileInputs.cache
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\bin\Debug\net6.0\EmailAndPassValidationCons.exe
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\bin\Debug\net6.0\EmailAndPassValidationCons.deps.json
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\bin\Debug\net6.0\EmailAndPassValidationCons.runtimeconfig.json
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\bin\Debug\net6.0\EmailAndPassValidationCons.dll
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\bin\Debug\net6.0\EmailAndPassValidationCons.pdb
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\EmailAndPassValidationCons.dll
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\refint\EmailAndPassValidationCons.dll
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\EmailAndPassValidationCons.pdb
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\EmailAndPassValidationCons.genruntimeconfig.cache
+C:\Users\Giorg\source\repos\EmailAndPassValidationCons\EmailAndPassValidationCons\obj\Debug\net6.0\ref\EmailAndPassValidationCons.dll
