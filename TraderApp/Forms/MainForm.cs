@@ -53,7 +53,7 @@ namespace TraderApp
                 return;
             }
 
-            int newId = myItems.Count + 1;
+            int newId = myItems.Count > 0 ? myItems.Max(u => u.ID) + 1 : 1;
 
             Item newItem = new Item(newId, name, price, quantity, DateTime.Now);
 

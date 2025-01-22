@@ -43,3 +43,4 @@ C:\Users\GiorgiOnMac\source\repos\GAU-Csharp-FinalExamTraderApp\TraderApp\bin\De
 C:\Users\GiorgiOnMac\source\repos\GAU-Csharp-FinalExamTraderApp\TraderApp\obj\Debug\net6.0-windows\TraderApp.csproj.Up2Date
 C:\Users\GiorgiOnMac\source\repos\GAU-Csharp-FinalExamTraderApp\TraderApp\obj\Debug\net6.0-windows\TraderApp.genruntimeconfig.cache
 C:\Users\GiorgiOnMac\source\repos\GAU-Csharp-FinalExamTraderApp\TraderApp\obj\Debug\net6.0-windows\ref\TraderApp.dll
+C:\Users\GiorgiOnMac\source\repos\GAU-Csharp-FinalExamTraderApp\TraderApp\obj\Debug\net6.0-windows\TraderApp.sourcelink.json

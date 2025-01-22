@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|c:\\users\\giorgionmac\\source\\repos\\gau-csharp-finalexamtraderapp\\traderapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|solutionrelative:traderapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|c:\\users\\giorgionmac\\source\\repos\\gau-csharp-finalexamtraderapp\\traderapp\\savefolder\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|solutionrelative:traderapp\\savefolder\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|c:\\users\\giorgionmac\\source\\repos\\gau-csharp-finalexamtraderapp\\traderapp\\savefolder\\regusers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|solutionrelative:traderapp\\savefolder\\regusers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|c:\\users\\giorgionmac\\source\\repos\\gau-csharp-finalexamtraderapp\\traderapp\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|solutionrelative:traderapp\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|c:\\users\\giorgionmac\\source\\repos\\gau-csharp-finalexamtraderapp\\traderapp\\managers\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|solutionrelative:traderapp\\managers\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|c:\\users\\giorgionmac\\source\\repos\\gau-csharp-finalexamtraderapp\\traderapp\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7CA0DD-AC6A-4A89-973D-639B59F3CCAB}|TraderApp\\TraderApp.csproj|solutionrelative:traderapp\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Items.JSON",
+              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\SaveFolder\\Items.JSON",
+              "RelativeDocumentMoniker": "TraderApp\\SaveFolder\\Items.JSON",
+              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\SaveFolder\\Items.JSON",
+              "RelativeToolTip": "TraderApp\\SaveFolder\\Items.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T20:24:30.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegUsers.JSON",
+              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\SaveFolder\\RegUsers.JSON",
+              "RelativeDocumentMoniker": "TraderApp\\SaveFolder\\RegUsers.JSON",
+              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\SaveFolder\\RegUsers.JSON",
+              "RelativeToolTip": "TraderApp\\SaveFolder\\RegUsers.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T20:24:32.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "TraderApp\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Forms\\RegisterForm.cs",
+              "RelativeToolTip": "TraderApp\\Forms\\RegisterForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:23:18.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "TraderApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Forms\\MainForm.cs",
+              "RelativeToolTip": "TraderApp\\Forms\\MainForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:23:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Managers\\ItemManager.cs",
+              "RelativeDocumentMoniker": "TraderApp\\Managers\\ItemManager.cs",
+              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Managers\\ItemManager.cs",
+              "RelativeToolTip": "TraderApp\\Managers\\ItemManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:19:49.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "TraderApp\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\GAU-Csharp-FinalExamTraderApp\\TraderApp\\Managers\\UserManager.cs",
+              "RelativeToolTip": "TraderApp\\Managers\\UserManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:19:51.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
