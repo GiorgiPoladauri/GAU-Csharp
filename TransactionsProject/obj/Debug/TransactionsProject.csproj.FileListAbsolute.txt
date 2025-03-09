@@ -1,0 +1,10 @@
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\obj\Debug\TransactionsProject.csproj.AssemblyReference.cache
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\obj\Debug\TransactionsProject.Form1.resources
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\obj\Debug\TransactionsProject.Properties.Resources.resources
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\obj\Debug\TransactionsProject.csproj.GenerateResource.cache
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\obj\Debug\TransactionsProject.csproj.CoreCompileInputs.cache
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\bin\Debug\TransactionsProject.exe.config
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\bin\Debug\TransactionsProject.exe
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\bin\Debug\TransactionsProject.pdb
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\obj\Debug\TransactionsProject.exe
+C:\Users\Giorg\source\repos\TransactionsProjectSolution\TransactionsProject\obj\Debug\TransactionsProject.pdb
