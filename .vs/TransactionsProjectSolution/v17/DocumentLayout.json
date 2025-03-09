@@ -1,70 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{48201C0C-BFB8-4D92-9689-7CCD7550C037}|TransactionsProject\\TransactionsProject.csproj|C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\transactionsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48201C0C-BFB8-4D92-9689-7CCD7550C037}|TransactionsProject\\TransactionsProject.csproj|solutionrelative:transactionsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48201C0C-BFB8-4D92-9689-7CCD7550C037}|TransactionsProject\\TransactionsProject.csproj|c:\\users\\giorg\\source\\repos\\transactionsprojectsolution\\transactionsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48201C0C-BFB8-4D92-9689-7CCD7550C037}|TransactionsProject\\TransactionsProject.csproj|solutionrelative:transactionsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48201C0C-BFB8-4D92-9689-7CCD7550C037}|TransactionsProject\\TransactionsProject.csproj|C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\transactionsproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48201C0C-BFB8-4D92-9689-7CCD7550C037}|TransactionsProject\\TransactionsProject.csproj|solutionrelative:transactionsproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 212,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\TransactionsProject\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "TransactionsProject\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\TransactionsProject\\Form1.Designer.cs",
-              "RelativeToolTip": "TransactionsProject\\Form1.Designer.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAewEgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T15:05:32.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\TransactionsProject\\Form1.cs",
-              "RelativeDocumentMoniker": "TransactionsProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\TransactionsProject\\Form1.cs",
-              "RelativeToolTip": "TransactionsProject\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:00:39.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\TransactionsProject\\Form1.cs",
-              "RelativeDocumentMoniker": "TransactionsProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\Giorg\\source\\repos\\TransactionsProjectSolution\\TransactionsProject\\Form1.cs [Design]",
-              "RelativeToolTip": "TransactionsProject\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:56:36.379Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

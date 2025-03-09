@@ -74,30 +74,50 @@ namespace TransactionsProject
                 {
                     try
                     {
-                        string updateQuery = @"
-                            UPDATE Users 
-                            SET 
-                                UserBalance = ISNULL(UserBalance, 0) - @PayAmount, 
-                                SpentBalance = ISNULL(SpentBalance, 0) + @PayAmount 
-                            WHERE ID_P = @ID";
+                        string selectBalanceQuery = "SELECT UserBalance FROM Users WHERE ID_P = @ID";
+                        SqlCommand cmdSelect = new SqlCommand(selectBalanceQuery, _con, transaction);
+                        cmdSelect.Parameters.AddWithValue("@ID", ID);
 
-                        SqlCommand cmd = new SqlCommand(updateQuery, _con, transaction);
-                        cmd.Parameters.AddWithValue("@PayAmount", PayAmount);
-                        cmd.Parameters.AddWithValue("@ID", ID);
+                        object balanceObj = cmdSelect.ExecuteScalar();
 
-                        int rowsAffected = cmd.ExecuteNonQuery();
-
-                        if (rowsAffected > 0)
+                        if (balanceObj == null || balanceObj == DBNull.Value)
                         {
-                            transaction.Commit();
-                            MessageBox.Show("Transaction successful.");
+                            throw new Exception("Error: User not found.");
                         }
-                        else
+
+                        decimal UserBalance = Convert.ToDecimal(balanceObj);
+
+                        if (UserBalance < PayAmount)
                         {
-                            transaction.Rollback();
-                            MessageBox.Show("Error: User not found or no update performed.");
-                            return;
+                            throw new Exception("Error: You don't have enough money.");
                         }
+
+                        string updateBalanceQuery = "UPDATE Users SET UserBalance = UserBalance - @PayAmount WHERE ID_P = @ID";
+                        SqlCommand cmd1 = new SqlCommand(updateBalanceQuery, _con, transaction);
+                        cmd1.Parameters.AddWithValue("@PayAmount", PayAmount);
+                        cmd1.Parameters.AddWithValue("@ID", ID);
+
+                        int rowsAffected1 = cmd1.ExecuteNonQuery();
+
+                        if (rowsAffected1 == 0)
+                        {
+                            throw new Exception("Error: Balance update failed.");
+                        }
+
+                        string updateSpentQuery = "UPDATE Users SET SpentBalance = ISNULL(SpentBalance, 0) + @PayAmount WHERE ID_P = @ID";
+                        SqlCommand cmd2 = new SqlCommand(updateSpentQuery, _con, transaction);
+                        cmd2.Parameters.AddWithValue("@PayAmount", PayAmount);
+                        cmd2.Parameters.AddWithValue("@ID", ID);
+
+                        int rowsAffected2 = cmd2.ExecuteNonQuery();
+
+                        if (rowsAffected2 == 0)
+                        {
+                            throw new Exception("Error: Spent balance update failed.");
+                        }
+
+                        transaction.Commit();
+                        MessageBox.Show("Transaction successful.");
                     }
                     catch (Exception ex)
                     {
@@ -106,7 +126,6 @@ namespace TransactionsProject
                         return;
                     }
                 }
-
                 LoadCourses();
             }
             catch (Exception ex)
