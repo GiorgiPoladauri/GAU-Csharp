@@ -1,0 +1,10 @@
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\bin\Debug\DepartmensAndUsersProj.exe.config
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\bin\Debug\DepartmensAndUsersProj.exe
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\bin\Debug\DepartmensAndUsersProj.pdb
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\obj\Debug\DepartmensAndUsersProj.csproj.AssemblyReference.cache
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\obj\Debug\DepartmensAndUsersProj.Form1.resources
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\obj\Debug\DepartmensAndUsersProj.Properties.Resources.resources
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\obj\Debug\DepartmensAndUsersProj.csproj.GenerateResource.cache
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\obj\Debug\DepartmensAndUsersProj.csproj.CoreCompileInputs.cache
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\obj\Debug\DepartmensAndUsersProj.exe
+C:\Users\Giorg\source\repos\DepartmensAndUsersProjSolution\DepartmensAndUsersProj\obj\Debug\DepartmensAndUsersProj.pdb
