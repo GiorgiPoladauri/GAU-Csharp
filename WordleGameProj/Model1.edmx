@@ -4,15 +4,10 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="WordleGameDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
-        <!--Errors Found During Generation:
-warning 6002: The table/view 'WordleGameDatabase.dbo.Users' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+    <Schema Namespace="WordleGameDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Users">
           <Key>
             <PropertyRef Name="ID_P" />
-            <PropertyRef Name="Email" />
-            <PropertyRef Name="Password" />
-            <PropertyRef Name="ID_F" />
           </Key>
           <Property Name="ID_P" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
@@ -20,26 +15,15 @@ warning 6002: The table/view 'WordleGameDatabase.dbo.Users' does not have a prim
           <Property Name="ID_F" Type="int" Nullable="false" />
         </EntityType>
         <EntityContainer Name="WordleGameDatabaseModelStoreContainer">
-          <EntitySet Name="Users" EntityType="Self.Users" store:Type="Tables" store:Schema="dbo">
-            <DefiningQuery>SELECT 
-    [Users].[ID_P] AS [ID_P], 
-    [Users].[Email] AS [Email], 
-    [Users].[Password] AS [Password], 
-    [Users].[ID_F] AS [ID_F]
-    FROM [dbo].[Users] AS [Users]</DefiningQuery>
-          </EntitySet>
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="WordleGameDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityType Name="User">
           <Key>
             <PropertyRef Name="ID_P" />
-            <PropertyRef Name="Email" />
-            <PropertyRef Name="Password" />
-            <PropertyRef Name="ID_F" />
           </Key>
           <Property Name="ID_P" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />

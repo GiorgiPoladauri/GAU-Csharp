@@ -25,3 +25,4 @@ C:\Users\Giorg\source\repos\WordleGameProjSolut\WordleGameProj\obj\Debug\WordleG
 C:\Users\Giorg\source\repos\WordleGameProjSolut\WordleGameProj\obj\Debug\WordleGa.701C1C3B.Up2Date
 C:\Users\Giorg\source\repos\WordleGameProjSolut\WordleGameProj\obj\Debug\WordleGameProj.exe
 C:\Users\Giorg\source\repos\WordleGameProjSolut\WordleGameProj\obj\Debug\WordleGameProj.pdb
+C:\Users\Giorg\source\repos\WordleGameProjSolut\WordleGameProj\obj\Debug\WordleGameProj.Form4.resources

@@ -3,9 +3,6 @@
   <EntityType Name="User">
     <Key>
       <PropertyRef Name="ID_P" />
-      <PropertyRef Name="Email" />
-      <PropertyRef Name="Password" />
-      <PropertyRef Name="ID_F" />
     </Key>
     <Property Name="ID_P" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />

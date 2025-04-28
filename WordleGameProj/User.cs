@@ -18,5 +18,6 @@ namespace WordleGameProj
         public string Email { get; set; }
         public string Password { get; set; }
         public int ID_F { get; set; }
+        public bool IsFirstCheckboxChecked { get; set; }
     }
 }

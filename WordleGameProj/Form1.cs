@@ -19,12 +19,18 @@ namespace WordleGameProj
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            Form2 form2 = new Form2();
+            this.Hide();
+            form2.ShowDialog();
+            this.Close();
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            Form3 form3 = new Form3("");
+            this.Hide();
+            form3.ShowDialog();
+            this.Close();
         }
     }
 }

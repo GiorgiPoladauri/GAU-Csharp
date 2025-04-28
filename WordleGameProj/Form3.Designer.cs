@@ -77,7 +77,6 @@
             this.checkBox1.Text = "You agree to receive updates and offers from The Times. You may opt\r\nout or conta" +
     "ct us anytime.";
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // button1
             // 
