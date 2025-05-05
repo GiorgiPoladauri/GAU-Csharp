@@ -1,0 +1,16 @@
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\bin\Debug\OrderManagementProj.exe.config
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\bin\Debug\OrderManagementProj.exe
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\bin\Debug\OrderManagementProj.pdb
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\bin\Debug\EntityFramework.dll
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\bin\Debug\EntityFramework.xml
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.csproj.AssemblyReference.cache
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.Properties.Resources.resources
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.csproj.GenerateResource.cache
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.csproj.CoreCompileInputs.cache
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderMan.DE4CE328.Up2Date
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.exe
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.pdb
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.Form1.resources
+C:\Users\Giorg\source\repos\OrderManagementProjSolut\OrderManagementProj\obj\Debug\OrderManagementProj.Form2.resources
