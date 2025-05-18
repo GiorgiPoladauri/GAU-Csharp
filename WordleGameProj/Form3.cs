@@ -23,7 +23,7 @@ namespace WordleGameProj
                 return;
             }
 
-            else if (!checkBox1.Checked)
+            if (!checkBox1.Checked)
             {
                 MessageBox.Show("You must agree to the terms before registering!", "Registration Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
@@ -31,19 +31,21 @@ namespace WordleGameProj
 
             using (var context = new WordleGameDatabaseEntities())
             {
-                var newUser = new User
+                bool userExists = context.Users.Any(u => u.Email == email);
+
+                if (!userExists)
                 {
-                    Email = email,
-                    Password = password,
-                    IsFirstCheckboxChecked = true
-                };
+                    var newUser = new User
+                    {
+                        Email = email,
+                        Password = password,
+                        IsFirstCheckboxChecked = true
+                    };
 
-                context.Users.Add(newUser);
-
-                context.SaveChanges();
+                    context.Users.Add(newUser);
+                    context.SaveChanges();
+                }
             }
-
-            MessageBox.Show("Registration successful!");
 
             this.Hide();
             Form4 form4 = new Form4(email);
