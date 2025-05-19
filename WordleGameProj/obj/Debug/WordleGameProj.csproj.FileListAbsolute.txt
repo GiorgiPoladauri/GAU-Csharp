@@ -44,3 +44,14 @@ C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork10WordleApp\GAU-Csharp-HomeWork10
 C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork10WordleApp\GAU-Csharp-HomeWork10WordleApp\WordleGameProj\obj\Debug\WordleGa.701C1C3B.Up2Date
 C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork10WordleApp\GAU-Csharp-HomeWork10WordleApp\WordleGameProj\obj\Debug\WordleGameProj.exe
 C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork10WordleApp\GAU-Csharp-HomeWork10WordleApp\WordleGameProj\obj\Debug\WordleGameProj.pdb
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.csproj.AssemblyReference.cache
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.Form1.resources
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.Form2.resources
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.Form3.resources
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.Form4.resources
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.Properties.Resources.resources
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.csproj.GenerateResource.cache
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.csproj.CoreCompileInputs.cache
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.exe
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.pdb
+C:\Users\Giorg\source\repos\GAU-Csharp-HomeWork13WordleAppFull\WordleGameProj\obj\Debug\WordleGameProj.Form5.resources
