@@ -11,7 +11,6 @@ namespace GradeManagerProj
     {
         private readonly ExamContext _context = new ExamContext();
 
-        // ─── Pagination fields for Students ─────────────────────────────────
         private const int PageSize = 10;
         private int CurrentStudentPage = 1;
         private int TotalStudentPages = 1;
@@ -20,7 +19,6 @@ namespace GradeManagerProj
         {
             InitializeComponent();
 
-            // Wire up all event handlers (in case they aren’t already hooked via Designer)
             this.Load += MainForm_Load;
 
             btnAddStudent.Click += btnAddStudent_Click;
@@ -44,7 +42,6 @@ namespace GradeManagerProj
             btnDeleteGrade.Click += btnDeleteGrade_Click;
             btnCalculateAverage.Click += btnCalculateAverage_Click;
 
-            // Initial data load
             LoadTeachers();
             LoadSubjects();
             LoadStudentsPage();
@@ -52,7 +49,6 @@ namespace GradeManagerProj
             LoadGrades(null);
         }
 
-        // ──────────────────────────────────────────────────────────────────────
         #region Students (CRUD + Pagination)
 
         private void LoadStudentsPage()
@@ -235,7 +231,6 @@ namespace GradeManagerProj
         }
 
         #endregion
-        // ──────────────────────────────────────────────────────────────────────
 
         #region Teachers (Add + List)
 
@@ -275,7 +270,7 @@ namespace GradeManagerProj
 
                 LoadTeachers();
                 txtTeacherName.Clear();
-                LoadSubjects(); // refresh subject-teacher dropdown
+                LoadSubjects(); 
             }
             catch (Exception ex)
             {
@@ -285,7 +280,6 @@ namespace GradeManagerProj
         }
 
         #endregion
-        // ──────────────────────────────────────────────────────────────────────
 
         #region Subjects (CRUD)
 
@@ -437,7 +431,6 @@ namespace GradeManagerProj
         }
 
         #endregion
-        // ──────────────────────────────────────────────────────────────────────
 
         #region Grades (CRUD + Filter + Highlight + Average)
 
@@ -676,11 +669,9 @@ namespace GradeManagerProj
         }
 
         #endregion
-        // ──────────────────────────────────────────────────────────────────────
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            // Ensure everything is freshly loaded on form load
             LoadStudentsPage();
             LoadTeachers();
             LoadSubjects();

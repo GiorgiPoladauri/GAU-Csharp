@@ -1,5 +1,4 @@
-﻿// LoginForm.cs
-using System;
+﻿using System;
 using System.Windows.Forms;
 
 namespace GradeManagerProj
@@ -13,22 +12,23 @@ namespace GradeManagerProj
 
         private void LoginButton_Click(object sender, EventArgs e)
         {
-            // მარტივი ავთენტიფიკაცია: Username = "teacher", Password = "1234"
-            string username = textBox1.Text.Trim();
-            string password = textBox2.Text.Trim();
+            string username = textBox1.Text.Trim().ToLower();
+            string password = textBox2.Text.Trim().ToLower();
 
             if (username == "teacher" && password == "1234")
             {
-                // სწორი შეყვანა → გადახვევა MainForm-ზე
                 this.Hide();
-                MainForm main = new MainForm();
-                main.Show();
+                using (var main = new MainForm())
+                {
+                    main.ShowDialog();
+                }
+                this.Close();
             }
             else
             {
                 MessageBox.Show(
-                    "არავალიდური მომხმარებელი.\nUsername: teacher\nPassword: 1234",
-                    "ავტორიზაცია ვერ მოხერხდა",
+                    "Please, Use Teacher Pass, No Need To Cheat My Funny !",
+                    "Can't Log In !",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error
                 );

@@ -1,5 +1,4 @@
-﻿// Models/Teacher.cs
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace GradeManagerProj.Models
@@ -11,7 +10,6 @@ namespace GradeManagerProj.Models
         [Required]
         public string FullName { get; set; }
 
-        // ნავიგაციური თვისება Subjects-თან
         public virtual ICollection<Subjects> Subjects { get; set; }
     }
 }

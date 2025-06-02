@@ -2,9 +2,6 @@
 using System.Data.Entity;
 using System.Data.Entity.Migrations;
 using System.Data.Entity.Migrations.Sql;
-using GradeManagerProj.Migrations;// თუ გჭირდებათ
-// დარწმუნდით, რომ "Migrations.Configuration" კლასი ნამდვილად არსებობს და მისთვის სწორი ნეივსპეისია
-
 namespace GradeManagerProj.Data
 {
     public class ExamContext : DbContext
@@ -12,7 +9,6 @@ namespace GradeManagerProj.Data
         public ExamContext()
             : base("name=GradeManagerDBConnection")
         {
-            // აქ აუცილებლად შეავსეთ სახელი <ExamContext> SetInitializer-ში:
             Database.SetInitializer<ExamContext>(
                 new MigrateDatabaseToLatestVersion<ExamContext, Migrations.Configuration>()
             );

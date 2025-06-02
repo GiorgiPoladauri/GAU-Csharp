@@ -12,8 +12,6 @@ C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\bin\Debug\Ent
 C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeMan.CF70C5A2.Up2Date
 C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.exe
 C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.pdb
-C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.Migrations.InitialCreate.resources
 C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.LoginForm.resources
 C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.MainForm.resources
-C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.exe.config
-C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.Migrations.InitialCreate1.resources
+C:\Users\Giorg\source\repos\GradeManagerProjSolut\GradeManagerProj\obj\Debug\GradeManagerProj.Migrations.InitialCreate.resources

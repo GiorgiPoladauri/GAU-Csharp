@@ -14,7 +14,6 @@ namespace GradeManagerProj.Models
         [Required]
         public DateTime BirthDate { get; set; }
 
-        // ნავიგაციური თვისება Grades-სთან
         public virtual ICollection<Grades> Grades { get; set; }
     }
 }

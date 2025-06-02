@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Giorg\\source\\repos\\GradeManagerProjSolut\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F22470C1-E7F5-4E77-8391-A2587650EAF4}|GradeManagerProj\\GradeManagerProj.csproj|c:\\users\\giorg\\source\\repos\\grademanagerprojsolut\\grademanagerproj\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F22470C1-E7F5-4E77-8391-A2587650EAF4}|GradeManagerProj\\GradeManagerProj.csproj|solutionrelative:grademanagerproj\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Giorg\\source\\repos\\GradeManagerProjSolut\\GradeManagerProj\\Data\\DBContext.cs",
-              "RelativeDocumentMoniker": "GradeManagerProj\\Data\\DBContext.cs",
-              "ToolTip": "C:\\Users\\Giorg\\source\\repos\\GradeManagerProjSolut\\GradeManagerProj\\Data\\DBContext.cs",
-              "RelativeToolTip": "GradeManagerProj\\Data\\DBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:38:45.451Z",
-              "EditorCaption": ""
             }
           ]
         },

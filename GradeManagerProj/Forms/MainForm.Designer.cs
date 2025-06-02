@@ -105,6 +105,7 @@
             // 
             // tabControlMain
             // 
+            this.tabControlMain.Appearance = System.Windows.Forms.TabAppearance.Buttons;
             this.tabControlMain.Controls.Add(this.tabStudents);
             this.tabControlMain.Controls.Add(this.tabTeachers);
             this.tabControlMain.Controls.Add(this.tabSubjects);
@@ -120,10 +121,10 @@
             // 
             this.tabStudents.Controls.Add(this.grpStudentList);
             this.tabStudents.Controls.Add(this.grpStudentForm);
-            this.tabStudents.Location = new System.Drawing.Point(4, 25);
+            this.tabStudents.Location = new System.Drawing.Point(4, 28);
             this.tabStudents.Name = "tabStudents";
             this.tabStudents.Padding = new System.Windows.Forms.Padding(3);
-            this.tabStudents.Size = new System.Drawing.Size(574, 444);
+            this.tabStudents.Size = new System.Drawing.Size(574, 441);
             this.tabStudents.TabIndex = 0;
             this.tabStudents.Text = "Students";
             this.tabStudents.UseVisualStyleBackColor = true;
@@ -136,7 +137,7 @@
             this.grpStudentList.Controls.Add(this.btnPrevPage);
             this.grpStudentList.Controls.Add(this.dgvStudents);
             this.grpStudentList.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.grpStudentList.Location = new System.Drawing.Point(3, 225);
+            this.grpStudentList.Location = new System.Drawing.Point(3, 222);
             this.grpStudentList.Name = "grpStudentList";
             this.grpStudentList.Size = new System.Drawing.Size(568, 216);
             this.grpStudentList.TabIndex = 1;
@@ -154,23 +155,25 @@
             // 
             // btnNextPage
             // 
-            this.btnNextPage.ForeColor = System.Drawing.Color.Coral;
+            this.btnNextPage.BackColor = System.Drawing.Color.IndianRed;
+            this.btnNextPage.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnNextPage.Location = new System.Drawing.Point(487, 179);
             this.btnNextPage.Name = "btnNextPage";
             this.btnNextPage.Size = new System.Drawing.Size(75, 23);
             this.btnNextPage.TabIndex = 2;
             this.btnNextPage.Text = "Next";
-            this.btnNextPage.UseVisualStyleBackColor = true;
+            this.btnNextPage.UseVisualStyleBackColor = false;
             // 
             // btnPrevPage
             // 
-            this.btnPrevPage.ForeColor = System.Drawing.Color.Coral;
+            this.btnPrevPage.BackColor = System.Drawing.Color.IndianRed;
+            this.btnPrevPage.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnPrevPage.Location = new System.Drawing.Point(6, 179);
             this.btnPrevPage.Name = "btnPrevPage";
             this.btnPrevPage.Size = new System.Drawing.Size(75, 23);
             this.btnPrevPage.TabIndex = 1;
             this.btnPrevPage.Text = "Previous";
-            this.btnPrevPage.UseVisualStyleBackColor = true;
+            this.btnPrevPage.UseVisualStyleBackColor = false;
             // 
             // dgvStudents
             // 
@@ -210,33 +213,36 @@
             // 
             // btnDeleteStudent
             // 
-            this.btnDeleteStudent.ForeColor = System.Drawing.Color.Coral;
+            this.btnDeleteStudent.BackColor = System.Drawing.Color.IndianRed;
+            this.btnDeleteStudent.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnDeleteStudent.Location = new System.Drawing.Point(270, 150);
             this.btnDeleteStudent.Name = "btnDeleteStudent";
             this.btnDeleteStudent.Size = new System.Drawing.Size(75, 23);
             this.btnDeleteStudent.TabIndex = 6;
             this.btnDeleteStudent.Text = "Delete";
-            this.btnDeleteStudent.UseVisualStyleBackColor = true;
+            this.btnDeleteStudent.UseVisualStyleBackColor = false;
             // 
             // btnEditStudent
             // 
-            this.btnEditStudent.ForeColor = System.Drawing.Color.Coral;
+            this.btnEditStudent.BackColor = System.Drawing.Color.IndianRed;
+            this.btnEditStudent.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnEditStudent.Location = new System.Drawing.Point(145, 150);
             this.btnEditStudent.Name = "btnEditStudent";
             this.btnEditStudent.Size = new System.Drawing.Size(75, 23);
             this.btnEditStudent.TabIndex = 5;
             this.btnEditStudent.Text = "Edit";
-            this.btnEditStudent.UseVisualStyleBackColor = true;
+            this.btnEditStudent.UseVisualStyleBackColor = false;
             // 
             // btnAddStudent
             // 
-            this.btnAddStudent.ForeColor = System.Drawing.Color.Coral;
+            this.btnAddStudent.BackColor = System.Drawing.Color.IndianRed;
+            this.btnAddStudent.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnAddStudent.Location = new System.Drawing.Point(22, 150);
             this.btnAddStudent.Name = "btnAddStudent";
             this.btnAddStudent.Size = new System.Drawing.Size(75, 23);
             this.btnAddStudent.TabIndex = 4;
             this.btnAddStudent.Text = "Add";
-            this.btnAddStudent.UseVisualStyleBackColor = true;
+            this.btnAddStudent.UseVisualStyleBackColor = false;
             // 
             // dtpStudentBirth
             // 
@@ -256,9 +262,10 @@
             // 
             // txtStudentName
             // 
+            this.txtStudentName.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.txtStudentName.Location = new System.Drawing.Point(145, 39);
             this.txtStudentName.Name = "txtStudentName";
-            this.txtStudentName.Size = new System.Drawing.Size(100, 22);
+            this.txtStudentName.Size = new System.Drawing.Size(200, 22);
             this.txtStudentName.TabIndex = 1;
             // 
             // label1
@@ -274,21 +281,22 @@
             // 
             this.tabTeachers.Controls.Add(this.grpTeacherList);
             this.tabTeachers.Controls.Add(this.grpTeacherForm);
-            this.tabTeachers.Location = new System.Drawing.Point(4, 25);
+            this.tabTeachers.Location = new System.Drawing.Point(4, 28);
             this.tabTeachers.Name = "tabTeachers";
             this.tabTeachers.Padding = new System.Windows.Forms.Padding(3);
-            this.tabTeachers.Size = new System.Drawing.Size(574, 444);
+            this.tabTeachers.Size = new System.Drawing.Size(574, 441);
             this.tabTeachers.TabIndex = 1;
             this.tabTeachers.Text = "Teachers";
             this.tabTeachers.UseVisualStyleBackColor = true;
             // 
             // grpTeacherList
             // 
+            this.grpTeacherList.BackColor = System.Drawing.Color.RosyBrown;
             this.grpTeacherList.Controls.Add(this.dgvTeachers);
             this.grpTeacherList.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.grpTeacherList.Location = new System.Drawing.Point(3, 220);
+            this.grpTeacherList.Location = new System.Drawing.Point(3, 146);
             this.grpTeacherList.Name = "grpTeacherList";
-            this.grpTeacherList.Size = new System.Drawing.Size(568, 221);
+            this.grpTeacherList.Size = new System.Drawing.Size(568, 292);
             this.grpTeacherList.TabIndex = 1;
             this.grpTeacherList.TabStop = false;
             this.grpTeacherList.Text = "Teacher List";
@@ -301,33 +309,36 @@
             this.dgvTeachers.Name = "dgvTeachers";
             this.dgvTeachers.RowHeadersWidth = 51;
             this.dgvTeachers.RowTemplate.Height = 24;
-            this.dgvTeachers.Size = new System.Drawing.Size(562, 200);
+            this.dgvTeachers.Size = new System.Drawing.Size(562, 271);
             this.dgvTeachers.TabIndex = 0;
             // 
             // grpTeacherForm
             // 
+            this.grpTeacherForm.BackColor = System.Drawing.Color.RosyBrown;
             this.grpTeacherForm.Controls.Add(this.btnAddTeacher);
             this.grpTeacherForm.Controls.Add(this.txtTeacherName);
             this.grpTeacherForm.Controls.Add(this.lblTeacherName);
             this.grpTeacherForm.Dock = System.Windows.Forms.DockStyle.Top;
             this.grpTeacherForm.Location = new System.Drawing.Point(3, 3);
             this.grpTeacherForm.Name = "grpTeacherForm";
-            this.grpTeacherForm.Size = new System.Drawing.Size(568, 211);
+            this.grpTeacherForm.Size = new System.Drawing.Size(568, 140);
             this.grpTeacherForm.TabIndex = 0;
             this.grpTeacherForm.TabStop = false;
             this.grpTeacherForm.Text = "Manage Teacher";
             // 
             // btnAddTeacher
             // 
+            this.btnAddTeacher.BackColor = System.Drawing.Color.IndianRed;
             this.btnAddTeacher.Location = new System.Drawing.Point(114, 78);
             this.btnAddTeacher.Name = "btnAddTeacher";
             this.btnAddTeacher.Size = new System.Drawing.Size(75, 23);
             this.btnAddTeacher.TabIndex = 2;
             this.btnAddTeacher.Text = "Add";
-            this.btnAddTeacher.UseVisualStyleBackColor = true;
+            this.btnAddTeacher.UseVisualStyleBackColor = false;
             // 
             // txtTeacherName
             // 
+            this.txtTeacherName.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.txtTeacherName.Location = new System.Drawing.Point(114, 35);
             this.txtTeacherName.Name = "txtTeacherName";
             this.txtTeacherName.Size = new System.Drawing.Size(175, 22);
@@ -346,21 +357,22 @@
             // 
             this.tabSubjects.Controls.Add(this.grpSubjectList);
             this.tabSubjects.Controls.Add(this.grpSubjectForm);
-            this.tabSubjects.Location = new System.Drawing.Point(4, 25);
+            this.tabSubjects.Location = new System.Drawing.Point(4, 28);
             this.tabSubjects.Name = "tabSubjects";
             this.tabSubjects.Padding = new System.Windows.Forms.Padding(3);
-            this.tabSubjects.Size = new System.Drawing.Size(574, 444);
+            this.tabSubjects.Size = new System.Drawing.Size(574, 441);
             this.tabSubjects.TabIndex = 2;
             this.tabSubjects.Text = "Subjects";
             this.tabSubjects.UseVisualStyleBackColor = true;
             // 
             // grpSubjectList
             // 
+            this.grpSubjectList.BackColor = System.Drawing.Color.RosyBrown;
             this.grpSubjectList.Controls.Add(this.dgvSubjects);
             this.grpSubjectList.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.grpSubjectList.Location = new System.Drawing.Point(3, 243);
+            this.grpSubjectList.Location = new System.Drawing.Point(3, 207);
             this.grpSubjectList.Name = "grpSubjectList";
-            this.grpSubjectList.Size = new System.Drawing.Size(568, 198);
+            this.grpSubjectList.Size = new System.Drawing.Size(568, 231);
             this.grpSubjectList.TabIndex = 1;
             this.grpSubjectList.TabStop = false;
             this.grpSubjectList.Text = "Subject List";
@@ -373,11 +385,12 @@
             this.dgvSubjects.Name = "dgvSubjects";
             this.dgvSubjects.RowHeadersWidth = 51;
             this.dgvSubjects.RowTemplate.Height = 24;
-            this.dgvSubjects.Size = new System.Drawing.Size(562, 177);
+            this.dgvSubjects.Size = new System.Drawing.Size(562, 210);
             this.dgvSubjects.TabIndex = 0;
             // 
             // grpSubjectForm
             // 
+            this.grpSubjectForm.BackColor = System.Drawing.Color.RosyBrown;
             this.grpSubjectForm.Controls.Add(this.btnDeleteSubject);
             this.grpSubjectForm.Controls.Add(this.btnEditSubject);
             this.grpSubjectForm.Controls.Add(this.lblSubjectTeacher);
@@ -388,28 +401,30 @@
             this.grpSubjectForm.Dock = System.Windows.Forms.DockStyle.Top;
             this.grpSubjectForm.Location = new System.Drawing.Point(3, 3);
             this.grpSubjectForm.Name = "grpSubjectForm";
-            this.grpSubjectForm.Size = new System.Drawing.Size(568, 234);
+            this.grpSubjectForm.Size = new System.Drawing.Size(568, 201);
             this.grpSubjectForm.TabIndex = 0;
             this.grpSubjectForm.TabStop = false;
             this.grpSubjectForm.Text = "Manage Subject";
             // 
             // btnDeleteSubject
             // 
+            this.btnDeleteSubject.BackColor = System.Drawing.Color.IndianRed;
             this.btnDeleteSubject.Location = new System.Drawing.Point(261, 149);
             this.btnDeleteSubject.Name = "btnDeleteSubject";
             this.btnDeleteSubject.Size = new System.Drawing.Size(75, 23);
             this.btnDeleteSubject.TabIndex = 6;
             this.btnDeleteSubject.Text = "Delete";
-            this.btnDeleteSubject.UseVisualStyleBackColor = true;
+            this.btnDeleteSubject.UseVisualStyleBackColor = false;
             // 
             // btnEditSubject
             // 
+            this.btnEditSubject.BackColor = System.Drawing.Color.IndianRed;
             this.btnEditSubject.Location = new System.Drawing.Point(156, 149);
             this.btnEditSubject.Name = "btnEditSubject";
             this.btnEditSubject.Size = new System.Drawing.Size(75, 23);
             this.btnEditSubject.TabIndex = 5;
             this.btnEditSubject.Text = "Edit";
-            this.btnEditSubject.UseVisualStyleBackColor = true;
+            this.btnEditSubject.UseVisualStyleBackColor = false;
             // 
             // lblSubjectTeacher
             // 
@@ -422,15 +437,17 @@
             // 
             // btnAddSubject
             // 
+            this.btnAddSubject.BackColor = System.Drawing.Color.IndianRed;
             this.btnAddSubject.Location = new System.Drawing.Point(50, 149);
             this.btnAddSubject.Name = "btnAddSubject";
             this.btnAddSubject.Size = new System.Drawing.Size(75, 23);
             this.btnAddSubject.TabIndex = 3;
             this.btnAddSubject.Text = "Add";
-            this.btnAddSubject.UseVisualStyleBackColor = true;
+            this.btnAddSubject.UseVisualStyleBackColor = false;
             // 
             // cmbSubjectTeacher
             // 
+            this.cmbSubjectTeacher.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.cmbSubjectTeacher.FormattingEnabled = true;
             this.cmbSubjectTeacher.Location = new System.Drawing.Point(131, 81);
             this.cmbSubjectTeacher.Name = "cmbSubjectTeacher";
@@ -439,6 +456,7 @@
             // 
             // txtSubjectName
             // 
+            this.txtSubjectName.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.txtSubjectName.Location = new System.Drawing.Point(131, 40);
             this.txtSubjectName.Name = "txtSubjectName";
             this.txtSubjectName.Size = new System.Drawing.Size(172, 22);
@@ -455,25 +473,26 @@
             // 
             // tabGrades
             // 
+            this.tabGrades.BackColor = System.Drawing.Color.RosyBrown;
             this.tabGrades.Controls.Add(this.grpGradeFilter);
             this.tabGrades.Controls.Add(this.groGradeList);
             this.tabGrades.Controls.Add(this.groupBox4);
             this.tabGrades.Controls.Add(this.grpGradeForm);
-            this.tabGrades.Location = new System.Drawing.Point(4, 25);
+            this.tabGrades.Location = new System.Drawing.Point(4, 28);
             this.tabGrades.Name = "tabGrades";
             this.tabGrades.Padding = new System.Windows.Forms.Padding(3);
-            this.tabGrades.Size = new System.Drawing.Size(574, 444);
+            this.tabGrades.Size = new System.Drawing.Size(574, 441);
             this.tabGrades.TabIndex = 3;
             this.tabGrades.Text = "Grades";
-            this.tabGrades.UseVisualStyleBackColor = true;
             // 
             // grpGradeFilter
             // 
+            this.grpGradeFilter.BackColor = System.Drawing.Color.RosyBrown;
             this.grpGradeFilter.Controls.Add(this.lblFilterSubject);
             this.grpGradeFilter.Controls.Add(this.cmbFilterSubject);
-            this.grpGradeFilter.Location = new System.Drawing.Point(8, 118);
+            this.grpGradeFilter.Location = new System.Drawing.Point(8, 130);
             this.grpGradeFilter.Name = "grpGradeFilter";
-            this.grpGradeFilter.Size = new System.Drawing.Size(558, 100);
+            this.grpGradeFilter.Size = new System.Drawing.Size(558, 83);
             this.grpGradeFilter.TabIndex = 1;
             this.grpGradeFilter.TabStop = false;
             this.grpGradeFilter.Text = "Filter";
@@ -481,7 +500,7 @@
             // lblFilterSubject
             // 
             this.lblFilterSubject.AutoSize = true;
-            this.lblFilterSubject.Location = new System.Drawing.Point(38, 50);
+            this.lblFilterSubject.Location = new System.Drawing.Point(29, 36);
             this.lblFilterSubject.Name = "lblFilterSubject";
             this.lblFilterSubject.Size = new System.Drawing.Size(71, 16);
             this.lblFilterSubject.TabIndex = 4;
@@ -489,8 +508,9 @@
             // 
             // cmbFilterSubject
             // 
+            this.cmbFilterSubject.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.cmbFilterSubject.FormattingEnabled = true;
-            this.cmbFilterSubject.Location = new System.Drawing.Point(137, 47);
+            this.cmbFilterSubject.Location = new System.Drawing.Point(130, 33);
             this.cmbFilterSubject.Name = "cmbFilterSubject";
             this.cmbFilterSubject.Size = new System.Drawing.Size(121, 24);
             this.cmbFilterSubject.TabIndex = 4;
@@ -498,9 +518,9 @@
             // groGradeList
             // 
             this.groGradeList.Controls.Add(this.dgvGrades);
-            this.groGradeList.Location = new System.Drawing.Point(8, 224);
+            this.groGradeList.Location = new System.Drawing.Point(8, 219);
             this.groGradeList.Name = "groGradeList";
-            this.groGradeList.Size = new System.Drawing.Size(558, 100);
+            this.groGradeList.Size = new System.Drawing.Size(558, 129);
             this.groGradeList.TabIndex = 1;
             this.groGradeList.TabStop = false;
             this.groGradeList.Text = "Grade List";
@@ -513,32 +533,35 @@
             this.dgvGrades.Name = "dgvGrades";
             this.dgvGrades.RowHeadersWidth = 51;
             this.dgvGrades.RowTemplate.Height = 24;
-            this.dgvGrades.Size = new System.Drawing.Size(552, 79);
+            this.dgvGrades.Size = new System.Drawing.Size(552, 108);
             this.dgvGrades.TabIndex = 0;
             // 
             // groupBox4
             // 
+            this.groupBox4.BackColor = System.Drawing.Color.RosyBrown;
             this.groupBox4.Controls.Add(this.btnCalculateAverage);
             this.groupBox4.Controls.Add(this.cmbAverageStudent);
             this.groupBox4.Controls.Add(this.lblAverageStudent);
-            this.groupBox4.Location = new System.Drawing.Point(8, 341);
+            this.groupBox4.Location = new System.Drawing.Point(8, 354);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(558, 100);
+            this.groupBox4.Size = new System.Drawing.Size(558, 87);
             this.groupBox4.TabIndex = 1;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Calculate Average";
             // 
             // btnCalculateAverage
             // 
+            this.btnCalculateAverage.BackColor = System.Drawing.Color.IndianRed;
             this.btnCalculateAverage.Location = new System.Drawing.Point(240, 44);
             this.btnCalculateAverage.Name = "btnCalculateAverage";
             this.btnCalculateAverage.Size = new System.Drawing.Size(75, 23);
             this.btnCalculateAverage.TabIndex = 4;
             this.btnCalculateAverage.Text = "Calculate";
-            this.btnCalculateAverage.UseVisualStyleBackColor = true;
+            this.btnCalculateAverage.UseVisualStyleBackColor = false;
             // 
             // cmbAverageStudent
             // 
+            this.cmbAverageStudent.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.cmbAverageStudent.FormattingEnabled = true;
             this.cmbAverageStudent.Location = new System.Drawing.Point(98, 43);
             this.cmbAverageStudent.Name = "cmbAverageStudent";
@@ -556,6 +579,7 @@
             // 
             // grpGradeForm
             // 
+            this.grpGradeForm.BackColor = System.Drawing.Color.RosyBrown;
             this.grpGradeForm.Controls.Add(this.label3);
             this.grpGradeForm.Controls.Add(this.cmbGradeStudent);
             this.grpGradeForm.Controls.Add(this.lblGradeSubject);
@@ -567,7 +591,7 @@
             this.grpGradeForm.Controls.Add(this.lblGradeStudent);
             this.grpGradeForm.Location = new System.Drawing.Point(8, 6);
             this.grpGradeForm.Name = "grpGradeForm";
-            this.grpGradeForm.Size = new System.Drawing.Size(558, 100);
+            this.grpGradeForm.Size = new System.Drawing.Size(558, 118);
             this.grpGradeForm.TabIndex = 0;
             this.grpGradeForm.TabStop = false;
             this.grpGradeForm.Text = "Manage Grade";
@@ -575,7 +599,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(373, 28);
+            this.label3.Location = new System.Drawing.Point(371, 28);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(89, 16);
             this.label3.TabIndex = 8;
@@ -583,10 +607,11 @@
             // 
             // cmbGradeStudent
             // 
+            this.cmbGradeStudent.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.cmbGradeStudent.FormattingEnabled = true;
-            this.cmbGradeStudent.Location = new System.Drawing.Point(468, 28);
+            this.cmbGradeStudent.Location = new System.Drawing.Point(64, 25);
             this.cmbGradeStudent.Name = "cmbGradeStudent";
-            this.cmbGradeStudent.Size = new System.Drawing.Size(84, 24);
+            this.cmbGradeStudent.Size = new System.Drawing.Size(101, 24);
             this.cmbGradeStudent.TabIndex = 7;
             // 
             // lblGradeSubject
@@ -600,40 +625,45 @@
             // 
             // btnDeleteGrade
             // 
+            this.btnDeleteGrade.BackColor = System.Drawing.Color.IndianRed;
             this.btnDeleteGrade.Location = new System.Drawing.Point(282, 69);
             this.btnDeleteGrade.Name = "btnDeleteGrade";
             this.btnDeleteGrade.Size = new System.Drawing.Size(75, 24);
             this.btnDeleteGrade.TabIndex = 5;
             this.btnDeleteGrade.Text = "Delete";
-            this.btnDeleteGrade.UseVisualStyleBackColor = true;
+            this.btnDeleteGrade.UseVisualStyleBackColor = false;
             // 
             // btnEditGrade
             // 
+            this.btnEditGrade.BackColor = System.Drawing.Color.IndianRed;
             this.btnEditGrade.Location = new System.Drawing.Point(190, 70);
             this.btnEditGrade.Name = "btnEditGrade";
             this.btnEditGrade.Size = new System.Drawing.Size(75, 23);
             this.btnEditGrade.TabIndex = 4;
             this.btnEditGrade.Text = "Edit";
-            this.btnEditGrade.UseVisualStyleBackColor = true;
+            this.btnEditGrade.UseVisualStyleBackColor = false;
             // 
             // btnAddGrade
             // 
+            this.btnAddGrade.BackColor = System.Drawing.Color.IndianRed;
             this.btnAddGrade.Location = new System.Drawing.Point(98, 70);
             this.btnAddGrade.Name = "btnAddGrade";
             this.btnAddGrade.Size = new System.Drawing.Size(75, 23);
             this.btnAddGrade.TabIndex = 3;
             this.btnAddGrade.Text = "Add";
-            this.btnAddGrade.UseVisualStyleBackColor = true;
+            this.btnAddGrade.UseVisualStyleBackColor = false;
             // 
             // txtGradeValue
             // 
-            this.txtGradeValue.Location = new System.Drawing.Point(64, 28);
+            this.txtGradeValue.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.txtGradeValue.Location = new System.Drawing.Point(466, 27);
             this.txtGradeValue.Name = "txtGradeValue";
-            this.txtGradeValue.Size = new System.Drawing.Size(100, 22);
+            this.txtGradeValue.Size = new System.Drawing.Size(86, 22);
             this.txtGradeValue.TabIndex = 2;
             // 
             // cmbGradeSubject
             // 
+            this.cmbGradeSubject.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.cmbGradeSubject.FormattingEnabled = true;
             this.cmbGradeSubject.Location = new System.Drawing.Point(236, 28);
             this.cmbGradeSubject.Name = "cmbGradeSubject";
@@ -657,6 +687,7 @@
             this.ClientSize = new System.Drawing.Size(582, 473);
             this.Controls.Add(this.tabControlMain);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MainForm";
