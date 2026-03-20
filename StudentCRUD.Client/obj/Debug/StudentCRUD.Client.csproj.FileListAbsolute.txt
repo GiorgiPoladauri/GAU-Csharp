@@ -1,0 +1,15 @@
+C:\Users\lab322_student05\Desktop\GP\StudentCRUD\StudentCRUD.Client\obj\Debug\StudentCRUD.Client.csproj.AssemblyReference.cache
+C:\Users\lab322_student05\Desktop\GP\StudentCRUD\StudentCRUD.Client\obj\Debug\StudentCRUD.Client.csproj.CoreCompileInputs.cache
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\StudentCRUD.Client.exe.config
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\StudentCRUD.Client.exe
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\StudentCRUD.Client.pdb
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\StudentCRUD.Service.exe
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\EntityFramework.dll
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\StudentCRUD.Service.pdb
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\StudentCRUD.Service.exe.config
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\bin\Debug\EntityFramework.xml
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\obj\Debug\StudentCRUD.Client.csproj.AssemblyReference.cache
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\obj\Debug\StudentCRUD.Client.csproj.CoreCompileInputs.cache
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\obj\Debug\StudentC.0987B2B8.Up2Date
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\obj\Debug\StudentCRUD.Client.exe
+C:\Users\GiorgiOnMac\source\repos\StudentCRUD_wcf\StudentCRUD.Client\obj\Debug\StudentCRUD.Client.pdb
