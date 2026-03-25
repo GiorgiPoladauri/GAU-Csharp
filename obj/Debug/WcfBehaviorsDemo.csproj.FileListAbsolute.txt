@@ -1,0 +1,7 @@
+C:\Users\GiorgiOnMac\source\repos\WcfBehaviorsDemo\obj\Debug\WcfBehaviorsDemo.csproj.AssemblyReference.cache
+C:\Users\GiorgiOnMac\source\repos\WcfBehaviorsDemo\obj\Debug\WcfBehaviorsDemo.csproj.CoreCompileInputs.cache
+C:\Users\GiorgiOnMac\source\repos\WcfBehaviorsDemo\bin\Debug\WcfBehaviorsDemo.exe.config
+C:\Users\GiorgiOnMac\source\repos\WcfBehaviorsDemo\bin\Debug\WcfBehaviorsDemo.exe
+C:\Users\GiorgiOnMac\source\repos\WcfBehaviorsDemo\bin\Debug\WcfBehaviorsDemo.pdb
+C:\Users\GiorgiOnMac\source\repos\WcfBehaviorsDemo\obj\Debug\WcfBehaviorsDemo.exe
+C:\Users\GiorgiOnMac\source\repos\WcfBehaviorsDemo\obj\Debug\WcfBehaviorsDemo.pdb
