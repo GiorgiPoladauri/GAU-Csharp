@@ -125,6 +125,12 @@ namespace WcfBehaviorsDemo
                     ((IClientChannel)client).Close();
                 }
 
+                Console.WriteLine("\n  [Host] Service still running — open browser now.");
+                Console.WriteLine("  [Host] http://localhost:8080/CalculatorService");
+                Console.WriteLine("  [Host] http://localhost:8080/CalculatorService?wsdl");
+                Console.WriteLine("\n  Press any key to close the service...");
+                Console.ReadKey(true);
+
                 host.Close();
                 PrintStep("Host closed. Demo 1 complete.");
             }
