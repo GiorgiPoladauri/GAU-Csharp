@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HomeWork18LibraryManagementAPIGP.props" />
+</Project>

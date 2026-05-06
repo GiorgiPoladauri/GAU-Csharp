@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
+    "Method": "GetAllData",
+    "RelativePath": "api/Library/all-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
+    "Method": "IssueBook",
+    "RelativePath": "api/Library/issue",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "readerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "bookId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
+    "Method": "ReturnBook",
+    "RelativePath": "api/Library/return",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loanId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "condition",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
+    "Method": "GetStatistics",
+    "RelativePath": "api/Library/statistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

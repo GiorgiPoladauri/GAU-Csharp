@@ -1,0 +1,17 @@
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
