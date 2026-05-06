@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeWork18LibraryManagementAPIGP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b60478e103007131848c330083676a2b4f3529b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeWork18LibraryManagementAPIGP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeWork18LibraryManagementAPIGP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

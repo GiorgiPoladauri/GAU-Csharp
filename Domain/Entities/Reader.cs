@@ -1,5 +1,4 @@
-﻿using Domain.Enums;
-using System;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Domain.Entities
 {
@@ -10,8 +9,11 @@ namespace Domain.Entities
         public string LastName { get; set; } = string.Empty;
         public string PersonalNumber { get; set; } = string.Empty;
         public string Phone { get; set; } = string.Empty;
+
+        [EmailAddress(ErrorMessage = "ელ. ფოსტა არასწორი ფორმატისაა")] // პუნქტი 2
         public string Email { get; set; } = string.Empty;
+
         public DateTime RegistrationDate { get; set; }
-        public ReaderStatus Status { get; set; } = ReaderStatus.Active;
+        public Domain.Enums.ReaderStatus Status { get; set; }
     }
 }

@@ -43,3 +43,4 @@ C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\HomeWork18Lib
 C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\HomeWork18LibraryManagementAPIGP\obj\Debug\net8.0\HomeWork18LibraryManagementAPIGP.pdb
 C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\HomeWork18LibraryManagementAPIGP\obj\Debug\net8.0\HomeWork18LibraryManagementAPIGP.genruntimeconfig.cache
 C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\HomeWork18LibraryManagementAPIGP\obj\Debug\net8.0\ref\HomeWork18LibraryManagementAPIGP.dll
+C:\Users\GiorgiOnMac\source\repos\HomeWork18LibraryManagementAPIGP\HomeWork18LibraryManagementAPIGP\obj\Debug\net8.0\HomeWork18LibraryManagementAPIGP.sourcelink.json

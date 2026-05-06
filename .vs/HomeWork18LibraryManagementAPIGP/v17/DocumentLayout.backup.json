@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\GiorgiOnMac\\source\\repos\\HomeWork18LibraryManagementAPIGP\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0AEFC14D-660B-4198-8B11-7180C238EFA6}|HomeWork18LibraryManagementAPIGP\\HomeWork18LibraryManagementAPIGP.csproj|c:\\users\\giorgionmac\\source\\repos\\homework18librarymanagementapigp\\homework18librarymanagementapigp\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AEFC14D-660B-4198-8B11-7180C238EFA6}|HomeWork18LibraryManagementAPIGP\\HomeWork18LibraryManagementAPIGP.csproj|solutionrelative:homework18librarymanagementapigp\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{431A82B7-2F93-48F8-92FF-7C481C734681}|Application\\Application.csproj|c:\\users\\giorgionmac\\source\\repos\\homework18librarymanagementapigp\\application\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431A82B7-2F93-48F8-92FF-7C481C734681}|Application\\Application.csproj|solutionrelative:application\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LibraryController.cs",
-              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\HomeWork18LibraryManagementAPIGP\\HomeWork18LibraryManagementAPIGP\\Controllers\\LibraryController.cs",
-              "RelativeDocumentMoniker": "HomeWork18LibraryManagementAPIGP\\Controllers\\LibraryController.cs",
-              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\HomeWork18LibraryManagementAPIGP\\HomeWork18LibraryManagementAPIGP\\Controllers\\LibraryController.cs",
-              "RelativeToolTip": "HomeWork18LibraryManagementAPIGP\\Controllers\\LibraryController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:44:06.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibraryService.cs",
-              "DocumentMoniker": "C:\\Users\\GiorgiOnMac\\source\\repos\\HomeWork18LibraryManagementAPIGP\\Application\\LibraryService.cs",
-              "RelativeDocumentMoniker": "Application\\LibraryService.cs",
-              "ToolTip": "C:\\Users\\GiorgiOnMac\\source\\repos\\HomeWork18LibraryManagementAPIGP\\Application\\LibraryService.cs",
-              "RelativeToolTip": "Application\\LibraryService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:43:44.954Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

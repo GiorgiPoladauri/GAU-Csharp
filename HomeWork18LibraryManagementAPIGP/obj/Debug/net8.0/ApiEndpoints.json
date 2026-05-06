@@ -11,6 +11,16 @@
   },
   {
     "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
+    "Method": "GetFullStatistics",
+    "RelativePath": "api/Library/full-statistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
     "Method": "IssueBook",
     "RelativePath": "api/Library/issue",
     "HttpMethod": "POST",
@@ -45,6 +55,53 @@
       },
       {
         "Name": "condition",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
+    "Method": "SearchBooks",
+    "RelativePath": "api/Library/search-books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "author",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HomeWork18LibraryManagementAPI.Controllers.LibraryController",
+    "Method": "SearchReaders",
+    "RelativePath": "api/Library/search-readers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
         "Type": "System.String",
         "IsRequired": false
       }
