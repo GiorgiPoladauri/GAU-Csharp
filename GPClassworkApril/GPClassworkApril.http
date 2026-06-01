@@ -1,0 +1,6 @@
+@GPClassworkApril_HostAddress = http://localhost:5194
+
+GET {{GPClassworkApril_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
