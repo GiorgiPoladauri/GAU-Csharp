@@ -1,0 +1,6 @@
+@GPWebAPIC__HostAddress = http://localhost:5066
+
+GET {{GPWebAPIC__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
