@@ -1,0 +1,11 @@
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\bin\Debug\net8.0\MedicalBilling.Domain.deps.json
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\bin\Debug\net8.0\MedicalBilling.Domain.dll
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\bin\Debug\net8.0\MedicalBilling.Domain.pdb
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\MedicalBilling.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\MedicalBilling.Domain.AssemblyInfoInputs.cache
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\MedicalBilling.Domain.AssemblyInfo.cs
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\MedicalBilling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\MedicalBilling.Domain.dll
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\refint\MedicalBilling.Domain.dll
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\MedicalBilling.Domain.pdb
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Domain\obj\Debug\net8.0\ref\MedicalBilling.Domain.dll

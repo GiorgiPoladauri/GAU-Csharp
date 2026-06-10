@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|c:\\users\\tutis\\downloads\\medicalbilling\\medicalbilling\\medicalbilling.presentation\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|solutionrelative:medicalbilling.presentation\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|c:\\users\\tutis\\downloads\\medicalbilling\\medicalbilling\\medicalbilling.presentation\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|solutionrelative:medicalbilling.presentation\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|c:\\users\\tutis\\downloads\\medicalbilling\\medicalbilling\\medicalbilling.presentation\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|solutionrelative:medicalbilling.presentation\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|c:\\users\\tutis\\downloads\\medicalbilling\\medicalbilling\\medicalbilling.presentation\\middleware\\jwtauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DCABE-DD4E-4D71-898F-DEA3ED0CA81C}|MedicalBilling.Presentation\\MedicalBilling.Presentation.csproj|solutionrelative:medicalbilling.presentation\\middleware\\jwtauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB47006-95D4-4E19-B070-208B6164F5E7}|MedicalBilling.Infrastructure\\MedicalBilling.Infrastructure.csproj|c:\\users\\tutis\\downloads\\medicalbilling\\medicalbilling\\medicalbilling.infrastructure\\repositories\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB47006-95D4-4E19-B070-208B6164F5E7}|MedicalBilling.Infrastructure\\MedicalBilling.Infrastructure.csproj|solutionrelative:medicalbilling.infrastructure\\repositories\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37621D2-3250-4461-8637-6C1A3E67BACD}|MedicalBilling.Domain\\MedicalBilling.Domain.csproj|c:\\users\\tutis\\downloads\\medicalbilling\\medicalbilling\\medicalbilling.domain\\interfaces\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37621D2-3250-4461-8637-6C1A3E67BACD}|MedicalBilling.Domain\\MedicalBilling.Domain.csproj|solutionrelative:medicalbilling.domain\\interfaces\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2DFAF-F6CD-4ED9-8E3B-08F0361074E5}|MedicalBilling.Application\\MedicalBilling.Application.csproj|c:\\users\\tutis\\downloads\\medicalbilling\\medicalbilling\\medicalbilling.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2DFAF-F6CD-4ED9-8E3B-08F0361074E5}|MedicalBilling.Application\\MedicalBilling.Application.csproj|solutionrelative:medicalbilling.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitsController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Controllers\\VisitsController.cs",
+              "RelativeDocumentMoniker": "MedicalBilling.Presentation\\Controllers\\VisitsController.cs",
+              "ToolTip": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Controllers\\VisitsController.cs",
+              "RelativeToolTip": "MedicalBilling.Presentation\\Controllers\\VisitsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:12:13.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "MedicalBilling.Presentation\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "MedicalBilling.Presentation\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:12:07.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "MedicalBilling.Presentation\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "MedicalBilling.Presentation\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:12:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Middleware\\JwtAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "MedicalBilling.Presentation\\Middleware\\JwtAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Presentation\\Middleware\\JwtAuthMiddleware.cs",
+              "RelativeToolTip": "MedicalBilling.Presentation\\Middleware\\JwtAuthMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:11:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Infrastructure\\Repositories\\VisitRepository.cs",
+              "RelativeDocumentMoniker": "MedicalBilling.Infrastructure\\Repositories\\VisitRepository.cs",
+              "ToolTip": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Infrastructure\\Repositories\\VisitRepository.cs",
+              "RelativeToolTip": "MedicalBilling.Infrastructure\\Repositories\\VisitRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:11:41.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVisitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Domain\\Interfaces\\IVisitRepository.cs",
+              "RelativeDocumentMoniker": "MedicalBilling.Domain\\Interfaces\\IVisitRepository.cs",
+              "ToolTip": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Domain\\Interfaces\\IVisitRepository.cs",
+              "RelativeToolTip": "MedicalBilling.Domain\\Interfaces\\IVisitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:11:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Application\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "MedicalBilling.Application\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\tutis\\Downloads\\MedicalBilling\\MedicalBilling\\MedicalBilling.Application\\Services\\PatientService.cs",
+              "RelativeToolTip": "MedicalBilling.Application\\Services\\PatientService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA2wFAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:10:47.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\bin\Debug\net8.0\MedicalBilling.Application.deps.json
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\bin\Debug\net8.0\MedicalBilling.Application.dll
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\bin\Debug\net8.0\MedicalBilling.Application.pdb
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\bin\Debug\net8.0\MedicalBilling.Domain.dll
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\bin\Debug\net8.0\MedicalBilling.Domain.pdb
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalBilling.Application.csproj.AssemblyReference.cache
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalBilling.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalBilling.Application.AssemblyInfoInputs.cache
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalBilling.Application.AssemblyInfo.cs
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalBilling.Application.csproj.CoreCompileInputs.cache
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalB.21BBE5D2.Up2Date
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalBilling.Application.dll
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\refint\MedicalBilling.Application.dll
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\MedicalBilling.Application.pdb
+C:\Users\tutis\Downloads\MedicalBilling\MedicalBilling\MedicalBilling.Application\obj\Debug\net8.0\ref\MedicalBilling.Application.dll
